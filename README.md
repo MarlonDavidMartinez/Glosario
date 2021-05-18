@@ -1,3 +1,3 @@
 #Glosario
 
- https://marlondavidmartinez.github.io/Glosario/ .
+https://marlondavidmartinez.github.io/Glosario/
