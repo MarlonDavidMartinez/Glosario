@@ -1,106 +1,75 @@
-.Titulo{
-    color: black;
-    text-align: center;
-    font-family:fantasy;
-    font-size: 30px;
+.titulo{
+    font-size: 50px;
+    font-family: monospace;
 }
-.titulo_tabla{
+.titulo{
     text-align: center;
-    font-family: fantasy;
-    background: blue;
-}
-.parrafo{
-    text-align: center;
-    font-family: cursive;
-    font-size: 25px;
-}
-.section_texto{
-    text-align: center;
-    font-size: 20px;
-   
-}
-.subtitulo{
-    font-family: fantasy;
-    text-align: center;
-    font-size: 30px;
-    color: black;
-    background: green;
-    
-}
-.tabla{
-    text-align: center;
-    font-size: 30px;
-}
-.
-.h2{
-    font-size: 30px;
     color: red;
-    font-family: fantasy;
+    font-family:fantasy;
 }
-.p{
-    font-size:20px;
-    font-family: cursive;
-    text-align: left;
+.caja-19{
+    border: 1px solid #000;
+    height: auto;
+    width: 1300px;
+    margin: auto;
 }
-
-.listado_2{
-    font-family: fantasy;
-    color: black;
+.grupo-1{
+    width: 1300px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+.grupo-1 div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    background-color: #310F40;
+    color: white;
     font-size: 30px;
     text-align: center;
-    background: red;
+    margin: 20px;
 }
-.listado_img{
-    text-align: left;
-    font-size: 20px; 
-    font-family: cursive;
-    background: red;
-}   
-
-.sub_lista1{
-    text-align: left;
-    font-family: cursive;
-    font-size: 20px;
-    background: green;
-} 
-
-.sub_texto{
-    font-family: cursive;
+{
+}
+.caja-14{
+    border: 1px solid #000;
+    height: auto;
+    width: 1300px;
+    margin: auto;
+    flex-direction: row;
+    display: flex;
+}
+.grupo-11{
+    height: auto;
+    display: flex; 
+    flex-direction: column;
+    margin: auto;   
     
-} 
-.titulo_css{
-    font-family: fantasy;
-    color: black;
+}
+.grupo-11 div{
+  border: 1px solid #000;
+    width: 500px;
+    height: 50px;
     font-size: 30px;
     text-align: center;
-    background: purple;
+    margin: 2px; 
+    background-color: #9AD2D9;
+    color: white;
 }
-.listado_textocss{
- text-align: left;
-    font-size: 20px; 
-    font-family: cursive;
-    background: purple;
+.grupo-22{
+    height: auto;
+    display: flex; 
+    flex-direction: column;
+    margin: auto;
 }
-.titulo_obj{
-     font-family: fantasy;
-    color: black;
+.grupo-22 div{
+    border: 1px solid #000;
+    width: 500px;
+    height: 50px;
     font-size: 30px;
     text-align: center;
-    background: yellow;
+    margin: 2px;
+    background-color: #D94848;
+    color: white;
 }
-.listado_obj{
-    text-align: left;
-    font-size: 20px; 
-    font-family: cursive;
-    background: yellow;
-}
-
-    
-    
-    
-    
-    
-    
-    
-    
-
