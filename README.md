@@ -4,7 +4,7 @@
 
 # Portafolio III Periodo 2021 :)
 
-<img width="200px" src="https://images.unsplash.com/photo-1563019589-7e7db5152430?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80">
+<img width="300px" src="https://images.unsplash.com/photo-1563019589-7e7db5152430?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80">
 
 # Información
 -Marlon David Martinez Cojulun
