@@ -1,6 +1,6 @@
 
 <img width="130px" 
- src="https://lh3.googleusercontent.com/n7XTuWm6mGfg35Que3HHOn4Qicuzwq1qSUp1_MjV7yZbuMy_1sU0VTsXKdfiP2zymMdncMKj_MGVycI=w1903-h937">
+ src="https://images.app.goo.gl/rJkjreSvdScA8WmP7">
 
 # Portafolio III Periodo 2021 :)
 
