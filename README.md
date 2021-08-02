@@ -1,6 +1,6 @@
 
 <img width="130px" 
- src="https://images.app.goo.gl/rJkjreSvdScA8WmP7">
+ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgthFV8LMZfQBehft87qqGFEVkRzptcNfrE5AqL5BgvqPN_Os3sjtThjxvm4mphC7w28Q&usqp=CAU">
 
 # Portafolio III Periodo 2021 :)
 
