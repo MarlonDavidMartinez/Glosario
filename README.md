@@ -7,11 +7,11 @@
 <img width="500px" src="https://images.unsplash.com/photo-1563019589-7e7db5152430?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80">
 
 # Información
-1.Marlon David Martinez Cojulun
-2.Colegio Santa Catalina Laboure
-3.IV Bachillerato en Ciencias y letras con orientación en Computación
-4.Jossue Emmanuel Fuentes
-5.Portafolio:https://marlondavidmartinez.github.io/Glosario/
+1. Marlon David Martinez Cojulun
+2. Colegio Santa Catalina Laboure
+3. IV Bachillerato en Ciencias y letras con orientación en Computación
+4. Jossue Emmanuel Fuentes
+5. Portafolio:https://marlondavidmartinez.github.io/Glosario/
 
 # Indice
 1. Portada
