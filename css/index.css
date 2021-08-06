@@ -3,22 +3,36 @@
  padding: 0px;
  box-sizing: border-box;
 }
+.principal{
+ width: 100%;
+ margin: 0px auto;
+}
 .banner_index{
     width: 100%;
-    height: 400px;
-    padding: 80px 0px 0px 80px;
-    background-image: url(https://bancosdeimagenes.com/wp-content/uploads/2018/10/Best-Free-Stock-Photos-Sites-BDI-Header-1024x1024.jpg);
+    height: 560px;
+    padding: 50px 40px;
+    background-image: url(../ejemplos/fondoIndex/Fondo_1.jpg);
     background-size: cover;
 }
 .caja_izquierda{
-    width: 500px;
-    color:darkviolet;
+   display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items:flex-start;
+    color: darkviolet;
 }
 
 .banner_index > .caja_izquierda > h2{
-    font-size: 20px;
-    
+
+  width:100%;
+  font-size: 36px;
+  margin-bottom: 5px;
 }
+.caja_izquierda > .texto{
+    font-size: 18px;
+  }
+    
+
 
 .btn_1{
 display:block;
