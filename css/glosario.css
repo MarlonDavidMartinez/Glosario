@@ -1,3 +1,11 @@
+*{
+    margin 0px;
+    padding 0px;
+}
+.general{
+  width: 50%;
+  margin: auto;
+}
 .Titulo{
     color: black;
     text-align: center;
