@@ -22,3 +22,8 @@
 5.1 HTML Y CSS
 5.2 Home page y banner de construccion o presentacion de el portafolio
 5.3 Glosario de HTML y CSS: contenido HTML y CSS
+
+# Objetivos
+ser más puntual en las clases
+poner más atención en las clases
+entregar todas mis tareas sin falta
