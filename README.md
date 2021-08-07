@@ -27,3 +27,10 @@
 1. ser más puntual en las clases
 2. poner más atención en las clases
 3. entregar todas mis tareas sin falta
+
+# Objetivos Futuros
+1. Organizar mejor mi tiempo
+2. investigar más a cerca de los temas vistos en clase
+3. ser mejor en todo lo que hago
+
+
