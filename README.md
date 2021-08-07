@@ -24,6 +24,6 @@
 5.3 Glosario de HTML y CSS: contenido HTML y CSS
 
 # Objetivos
-1.ser más puntual en las clases
-2.poner más atención en las clases
-3.entregar todas mis tareas sin falta
+1. ser más puntual en las clases
+2. poner más atención en las clases
+3. entregar todas mis tareas sin falta
